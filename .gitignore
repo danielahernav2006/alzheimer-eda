@@ -1,0 +1,8 @@
+.venv/
+_build/
+__pycache__/
+.ipynb_checkpoints/
+
+*.xlsx
+*.xls
+*.csv

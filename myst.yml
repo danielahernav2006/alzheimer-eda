@@ -1,0 +1,14 @@
+version: 1
+
+project:
+  title: "EDA - Enfermedad de Alzheimer"
+  authors:
+    - name: Daniela Hernández
+    - name: Alejandra Meneses
+    - name: Mariangel Yepes
+
+  toc:
+    - file: EDA_Alzheimer_Atlantico_UNIVARIADO_Y_BIVARIADO.ipynb
+
+site:
+  template: book-theme
